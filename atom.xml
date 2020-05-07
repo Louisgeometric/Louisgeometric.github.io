@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-04T07:58:37.660Z</updated>
+  <updated>2020-05-07T15:37:56.221Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Colin</title>
+    <link href="http://yoursite.com/2020/05/07/Colin/"/>
+    <id>http://yoursite.com/2020/05/07/Colin/</id>
+    <published>2020-05-07T15:36:46.000Z</published>
+    <updated>2020-05-07T15:37:56.221Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://q9qqzm7lr.bkt.clouddn.com/colin.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://q9qqzm7lr.bkt.clouddn.com/colin.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Character" scheme="http://yoursite.com/tags/Character/"/>
+    
+  </entry>
   
   <entry>
     <title>STAY ALONE 第一章</title>
