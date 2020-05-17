@@ -46,7 +46,7 @@
     <link href="http://yoursite.com/2020/05/08/Saca/"/>
     <id>http://yoursite.com/2020/05/08/Saca/</id>
     <published>2020-05-07T16:29:51.000Z</published>
-    <updated>2020-05-07T16:30:08.723Z</updated>
+    <updated>2020-05-17T15:25:25.425Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://q9qqzm7lr.bkt.clouddn.com/saca.png" alt=""></p>]]></content>
     
@@ -62,7 +62,7 @@
     
     
     
-      <category term="Character" scheme="http://yoursite.com/tags/Character/"/>
+      <category term="character" scheme="http://yoursite.com/tags/character/"/>
     
   </entry>
   
@@ -96,7 +96,7 @@
     <link href="http://yoursite.com/2020/05/08/Arras/"/>
     <id>http://yoursite.com/2020/05/08/Arras/</id>
     <published>2020-05-07T16:26:55.000Z</published>
-    <updated>2020-05-17T14:01:15.571Z</updated>
+    <updated>2020-05-17T14:34:46.985Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://q9qqzm7lr.bkt.clouddn.com/Arras.png" alt=""><br><img src="http://q9qqzm7lr.bkt.clouddn.com/Arras2.png" alt=""></p>]]></content>
     
@@ -112,7 +112,7 @@
     
     
     
-      <category term="Character" scheme="http://yoursite.com/tags/Character/"/>
+      <category term="character" scheme="http://yoursite.com/tags/character/"/>
     
   </entry>
   
@@ -121,7 +121,7 @@
     <link href="http://yoursite.com/2020/05/07/Colin/"/>
     <id>http://yoursite.com/2020/05/07/Colin/</id>
     <published>2020-05-07T15:36:46.000Z</published>
-    <updated>2020-05-17T14:00:35.881Z</updated>
+    <updated>2020-05-17T14:32:31.243Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://q9qqzm7lr.bkt.clouddn.com/Colin.png" alt=""><br><img src="http://q9qqzm7lr.bkt.clouddn.com/Colin2.png" alt=""></p>]]></content>
     
@@ -137,56 +137,7 @@
     
     
     
-      <category term="Character" scheme="http://yoursite.com/tags/Character/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>STAY ALONE 第一章</title>
-    <link href="http://yoursite.com/2020/05/04/STAY-ALONE-%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
-    <id>http://yoursite.com/2020/05/04/STAY-ALONE-%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
-    <published>2020-05-04T07:47:07.000Z</published>
-    <updated>2020-05-04T07:58:37.660Z</updated>
-    
-    <content type="html"><![CDATA[<p>请从右往左阅读<br><img src="http://q9qqzm7lr.bkt.clouddn.com/sa%20%2810%29.png" alt=""><br><img src="http://q9qqzm7lr.bkt.clouddn.com/sa%20%2811%29.png" alt=""><br><img src="http://q9qqzm7lr.bkt.clouddn.com/sa%20%2812%29.png" alt=""><br><img src="http://q9qqzm7lr.bkt.clouddn.com/sa%20%2813%29.png" alt=""><br><img src="http://q9qqzm7lr.bkt.clouddn.com/sa%20%2814%29.png" alt=""><br><img src="http://q9qqzm7lr.bkt.clouddn.com/sa%20%2815%29.png" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;请从右往左阅读&lt;br&gt;&lt;img src=&quot;http://q9qqzm7lr.bkt.clouddn.com/sa%20%2810%29.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://q9qqzm7lr.bkt.clouddn.com/sa%20%2811
-      
-    
-    </summary>
-    
-    
-    
-      <category term="stayalone" scheme="http://yoursite.com/tags/stayalone/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Spark</title>
-    <link href="http://yoursite.com/2020/05/03/Spark/"/>
-    <id>http://yoursite.com/2020/05/03/Spark/</id>
-    <published>2020-05-03T12:44:00.000Z</published>
-    <updated>2020-05-04T08:01:19.461Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;测试&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="文章" scheme="http://yoursite.com/tags/%E6%96%87%E7%AB%A0/"/>
+      <category term="character" scheme="http://yoursite.com/tags/character/"/>
     
   </entry>
   
